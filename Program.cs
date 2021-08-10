@@ -16,21 +16,6 @@ namespace enterAge
                 age = int.Parse(Console.ReadLine());
             }
             Console.WriteLine("You have reached the legal age.");
-           
-
-           
-            
-            
-
-                
-            
-            
-           
-                    
-
-
-            
-             
 
             }
         }
